@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CimE", "CimE\CimE.csproj", "{DE46E341-7C01-4EC3-942E-7FFD3D6B16A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CimE.Console", "CimE.Console\CimE.Console.csproj", "{FCF4E006-5922-49D6-9A0A-FA939F68ACA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CimE.Tests", "CimE.Tests\CimE.Tests.csproj", "{F73B74F9-77B4-5B75-3D73-9499439B06E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE46E341-7C01-4EC3-942E-7FFD3D6B16A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE46E341-7C01-4EC3-942E-7FFD3D6B16A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE46E341-7C01-4EC3-942E-7FFD3D6B16A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE46E341-7C01-4EC3-942E-7FFD3D6B16A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF4E006-5922-49D6-9A0A-FA939F68ACA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF4E006-5922-49D6-9A0A-FA939F68ACA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF4E006-5922-49D6-9A0A-FA939F68ACA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF4E006-5922-49D6-9A0A-FA939F68ACA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F73B74F9-77B4-5B75-3D73-9499439B06E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73B74F9-77B4-5B75-3D73-9499439B06E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73B74F9-77B4-5B75-3D73-9499439B06E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73B74F9-77B4-5B75-3D73-9499439B06E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AAA84C7-923B-4650-A102-A6F12ED248C7}
+	EndGlobalSection
+EndGlobal
